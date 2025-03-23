@@ -1,6 +1,7 @@
 {
   "name": "countingdown",
   "private": true,
+  "homepage": "https://frhweb.my.id/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -24,4 +25,5 @@
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   }
+  
 }
