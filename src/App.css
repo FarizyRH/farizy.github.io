@@ -1,0 +1,30 @@
+/* App.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000; /* Warna latar belakang opsional */
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.timer {
+  font-size: 2rem;
+  color: #555;
+}
+
+.timer span {
+  margin: 0 10px;
+}
